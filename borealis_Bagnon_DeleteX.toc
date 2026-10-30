@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: Bagnon: |cffff5555Delete X|r
+## Title-ruRU: Bagnon: |cffff5555Крестик удаления|r
+## Notes: REQUIRES BAGNON. The DELETE word is typed for you in the delete confirmation. A small X on the hovered bag slot deletes the item. A Junk button deletes the cheapest vendor-sellable grey item when bags are almost full (/delx).
+## Notes-ruRU: |cffff5555Нужен Bagnon.|r Слово УДАЛИТЬ в окне удаления вписывается само. Крестик на ячейке под мышью удаляет предмет. Кнопка «Мусор» удаляет самую дешёвую серую вещь, когда сумки почти полные (/delx).
+## Dependencies: Bagnon
+## SavedVariables: BagnonDeleteXDB
+## Version: 1.3
+
+borealis_Bagnon_DeleteX.lua
